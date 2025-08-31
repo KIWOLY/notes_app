@@ -20,7 +20,7 @@ class NoteCard extends StatelessWidget {
       },
       child: Card(
         child: Padding(
-          padding: const EdgeInsets.all(10),
+          padding: const EdgeInsets.all(12),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
