@@ -1,27 +1,27 @@
 
-# 📒 Flutter Note App
+#  Flutter Note App
 
 A simple **Note Taking App** built with **Flutter**.
 This project is designed for beginners to learn how to create, view, and delete notes using Flutter.
 
----
 
-## ✨ Features
+
+##  Features
 
 * ➕ **Create Note** – Add new notes with a title and content.
 * 👀 **View Note** – Open and read your saved notes.
 * 🗑 **Delete Note** – Remove notes you no longer need.
 
----
+
 
 ## 🛠 Tech Stack
 
 * [Flutter](https://flutter.dev/) – UI framework for building cross-platform apps.
 * [Dart](https://dart.dev/) – Programming language used by Flutter.
 
----
 
-## 🚀 Getting Started
+
+##  Getting Started
 
 ### Prerequisites
 
@@ -47,9 +47,9 @@ This project is designed for beginners to learn how to create, view, and delete 
    flutter run
    ```
 
----
 
-## 📂 Project Structure
+
+##  Project Structure
 
 ```
 lib/
@@ -59,9 +59,9 @@ lib/
  └── widgets/         # Reusable UI components
 ```
 
----
 
-## 🎯 Learning Goals
+
+##  Learning Goals
 
 This project will help you learn:
 
@@ -70,10 +70,10 @@ This project will help you learn:
 * State management using `setState()`.
 * Simple CRUD operations (Create, Read, Delete).
 
----
 
 
-## 🙌 Contribution
+
+##  Contribution
 
 This is a beginner project – feel free to fork it and improve it by adding features like:
 
@@ -81,13 +81,13 @@ This is a beginner project – feel free to fork it and improve it by adding fea
 * Save notes in local storage.
 * Add search functionality.
 
----
 
-## 📄 License
+
+##  License
 
 This project is open-source and free to use for learning purposes.
 
----
+
 ##  chalenge to beginner 
 add password mechanism
 
